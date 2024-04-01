@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Miguel Amaral and I'm a Full-Stack Developer from Portugal!</p>
+<p align="left">My name is Miguel Amaral , I'm a Full-Stack Developer from Portugal!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating and Designing Applications sence 2015<br>📚 I'm currently learning Python<br>🎯 Goals: Developing applications , be part of big projects.<br>🎲 Fun fact: I love retro games and Pixel art , on my free times i play videogames , do pixel art and experiment with low-poly models.  <br><br>Feel Free to contact me on Linkdin:</p>
+<p align="left">✨ Creating and Designing Applications since 2015<br>📚 I'm currently learning Python<br>🎯 Goals: Developing applications , be part of big projects.<br>🎲 Fun fact: I love retro games and Pixel art , on my free times I play videogames , work on pixel art and experiment with low-poly models.  <br><br>Feel Free to contact me on Linkdin:</p>
 
 ###
 
